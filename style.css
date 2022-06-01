@@ -1,0 +1,40 @@
+
+header{
+    background: lightblue;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+main{
+    background: blue;
+    color: white;
+    text-align: center;
+    width: 600px;
+    padding: 70px;
+    border: solid red 5px;
+    margin-left: auto;
+    margin-right: auto
+      
+}
+
+img{
+width: 400px;
+
+}
+div {
+    background: grey;
+}
+
+footer{
+    background: purple;
+    margin-top: 15px;
+    text-align: center;
+    color: white;
+    padding: 25px 0;
+}
+
+body{
+	margin: 0px;
+}
